@@ -1,5 +1,5 @@
-Esse projeto é para estudar o padrão saga do tipo orquestrado usando rabbitmq com broker, como demostra o diagrama a baixo
+Este projeto tem como objetivo estudar o padrão Saga do tipo orquestrado usando RabbitMQ com um broker, conforme demonstrado no diagrama abaixo.
 
+Atualmente, o projeto ainda não inclui a implementação das compensações das transações, que são uma parte fundamental do padrão Saga.
 
-This project is to study the orchestrated type of the Saga pattern using RabbitMQ with a broker, as demonstrated in the diagram below.
 ![](gif/arch.gif)
